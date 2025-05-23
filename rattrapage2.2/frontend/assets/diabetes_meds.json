@@ -1,0 +1,19 @@
+[
+  {"name": "Metformin", "type": "Oral"},
+  {"name": "Insulin Glargine", "type": "Insulin"},
+  {"name": "Insulin Aspart", "type": "Insulin"},
+  {"name": "Glipizide", "type": "Oral"},
+  {"name": "Glyburide", "type": "Oral"},
+  {"name": "Glimepiride", "type": "Oral"},
+  {"name": "Pioglitazone", "type": "Oral"},
+  {"name": "Sitagliptin", "type": "Oral"},
+  {"name": "Dulaglutide", "type": "Injectable"},
+  {"name": "Empagliflozin", "type": "Oral"},
+  {"name": "Liraglutide", "type": "Injectable"},
+  {"name": "Saxagliptin", "type": "Oral"},
+  {"name": "Repaglinide", "type": "Oral"},
+  {"name": "Canagliflozin", "type": "Oral"},
+  {"name": "Exenatide", "type": "Injectable"},
+  {"name": "Acarbose", "type": "Oral"},
+  {"name": "Dapagliflozin", "type": "Oral"}
+]

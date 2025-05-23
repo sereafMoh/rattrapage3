@@ -1,0 +1,9 @@
+[
+    {"type": "Walking", "calories_per_min": 4},
+    {"type": "Running", "calories_per_min": 10},
+    {"type": "Cycling", "calories_per_min": 8},
+    {"type": "Yoga", "calories_per_min": 3},
+    {"type": "Jump Rope", "calories_per_min": 12},
+    {"type": "Swimming", "calories_per_min": 9},
+    {"type": "Dancing", "calories_per_min": 7}
+]
